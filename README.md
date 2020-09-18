@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project link
 
-(https://hamzafarooqui98.github.io/monster-rolodex-app/)
+https://hamzafarooqui98.github.io/monster-rolodex-app/
 
 ## Available Scripts
 
